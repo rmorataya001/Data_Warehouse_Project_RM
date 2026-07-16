@@ -49,7 +49,7 @@ Everything used in this project is free:
 - **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms):** GUI for managing and interacting with databases
 - **[Git Repository](https://github.com/rmorataya001):** Version control and collaboration
 - **[DrawIO](https://www.drawio.com):** Design data architecture, models, flows, and diagrams
-
+- **[Notion](https://app.notion.com/p/SQL-Data-Warehouse-Project-RM-94e52ab89e178254968a81f3d053a354?source=copy_link):** Access to All Project Phases and Tasks.
 ---
 
 ## Project Requirements
