@@ -10,6 +10,8 @@ This project was completed as part of my ongoing SQL and data engineering learni
 
 ## Data Architecture
 
+![Data Architecture](docs/data_architecture.png)
+
 This project follows the **Medallion Architecture** with Bronze, Silver, and Gold layers:
 
 1. **Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV files into SQL Server.
